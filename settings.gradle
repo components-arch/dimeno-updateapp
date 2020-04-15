@@ -1,0 +1,3 @@
+rootProject.name='dimeno-updateapp'
+include ':app'
+include ':update'
